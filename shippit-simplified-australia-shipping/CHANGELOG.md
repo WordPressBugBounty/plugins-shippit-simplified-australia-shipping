@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+
+## [v2.0.3]
+
+### Fixed
+- Resolves an issue where log context may be overwritten with a string representation
+
+
 ## [v2.0.2]
 
 ### Fixed
