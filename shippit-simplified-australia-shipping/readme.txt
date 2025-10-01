@@ -3,7 +3,7 @@ Contributors: shippit, matthewmuscat
 Donate link: NA
 Tags: shipping, australia post, couriers please, aramex
 Requires at least: 4.0.0
-Tested up to: 6.7.2
+Tested up to: 6.8.3
 Stable tag: stable
 Requires PHP: 7.0
 License: Shippit Commercial Licence
@@ -58,10 +58,18 @@ Go to www.shippit.com and sign up for an account. You'll find your API Key in th
 
 == Changelog ==
 
+
+= 2.0.4 =
+
+### Fixed
+- Fixed an issue whereby "Authority to Leave" was not captured at the checkout
+
+
 = 2.0.3 =
 
 ### Fixed
 - Resolves an issue where log context may be overwritten with a string representation
+
 
 = 2.0.2 =
 
